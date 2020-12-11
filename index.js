@@ -232,7 +232,7 @@ Create a function called `getArtistByIndex` that takes two arguments:
  * it will return `The artist at index 0 is Amedeo Modigliani`
 */
 function getArtistByIndex(/*Your Code Here*/) {
-  /*Your Code Here*/
+  "testing"
 }  
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
